@@ -20,7 +20,7 @@
 
 ;;; Commentary:
 
-;; 
+;; https://github.com/osmatsuda/casefiddle-backward-mode
 
 ;;; Code:
 
